@@ -1,0 +1,12 @@
+[{
+ "operation": "shift",
+ 	"spec": {
+    "score": {
+      "wickets": {
+          "current": "ScoreCard.wickets.CurrentWicket",    
+          "still to bat": "ScoreCard.wickets.WicketsRemaining" 
+      }
+ 	}
+ }
+ }
+]
